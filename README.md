@@ -7,4 +7,5 @@ Instand of follow the traditional ways, we use 3D feature, namely, volume featur
 ![](pic/1.jpg)
 
 fig 1: Different features of two types of defects.
-In order to get the volume feature of defects, we use clustering method.
+In order to get the volume feature of defects, we use clustering method. Then volumn filtering is proformed to seperate niose and defects.
+In order to achieve an efficient and adaptive defect clustering algorithm, a new clustering evaluation index (DEVI) is defined.
