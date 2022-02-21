@@ -1,3 +1,0 @@
-"D:\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\detect.dir/objects.a
-D:\CodeBlocks17\MinGW\bin\ar.exe cr CMakeFiles\detect.dir/objects.a @CMakeFiles\detect.dir\objects1.rsp
-D:\CodeBlocks17\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\detect.dir/objects.a -Wl,--no-whole-archive -o detect.exe -Wl,--out-implib,libdetect.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\detect.dir\linklibs.rsp
